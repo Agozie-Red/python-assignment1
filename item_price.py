@@ -1,0 +1,10 @@
+milk = 400
+coffee=800
+bread=300
+cake=1500
+oats=1000
+choclate=700
+cornflakes=750
+sugar=450
+malt=240
+egg=100
